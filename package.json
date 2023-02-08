@@ -10,6 +10,9 @@
     "type": "git",
     "url": "cypress-first-project"
   },
-  "author": "Luísa",
-  "license": "ISC"
+  "author": "Luh Santos",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^12.5.1"
+  }
 }
