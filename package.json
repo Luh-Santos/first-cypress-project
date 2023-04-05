@@ -13,6 +13,7 @@
   "author": "Luh Santos",
   "license": "ISC",
   "devDependencies": {
-    "cypress": "^12.5.1"
+    "cypress": "^12.5.1",
+    "mochawesome": "^7.1.3"
   }
 }
